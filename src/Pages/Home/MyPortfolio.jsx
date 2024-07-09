@@ -37,7 +37,7 @@ export default function MyPortfolio() {
           <h2 className="section--heading-title">Mon portfolio</h2>
         </div>
         <div>
-          <button className="btn btn-github"  onClick={() => (window.location.href = "https://github.com/samiNedjai?tab=repositories")} >
+          <button className="btn btn-github"  onClick={() => (window.location.href = "https://github.com/Openclassroomstudent?tab=repositories")} >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="32"

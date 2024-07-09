@@ -41,8 +41,8 @@
       "title": "ArgentBank",
       "description": "site qui permettre de fournir une plateforme réactive et sécurisée permettant aux utilisateurs de gérer leur authentification, d'accéder à leur profil, et éventuellement de gérer leurs transactions financières.",
       "link": " Github",
-      "lien" : "https://github.com/samiNedjai/ArgentBank.git",
-      "site" : "https://saminedjai.github.io/ArgentBank/",
+      "lien" : "https://github.com/Openclassroomstudent/Argentbank-websitee.git",
+      "site" : "https://github.com/Openclassroomstudent/Argentbank-websitee/",
       "languages": ["React", "Redux"]
       
     },
@@ -52,8 +52,8 @@
       "title": "Ohmyfood",
       "description": "Création d'un site répertoriant les menus de restaurants gastronomiques à Paris. Le site permet aux clients de composer leur propre menu et de réserver leur repas",
       "link": "View In Github",
-      "lien" : "https://github.com/samiNedjai/ohmyfood.git",
-      "site" : "https://saminedjai.github.io/ohmyfood/",
+      "lien" : "https://github.com/Openclassroomstudent/Ohmyfood.git",
+      "site" : "https://openclassroomstudent.github.io/Ohmyfood/",
       "languages": ["HTML", "CSS"]
     },
     {
@@ -62,8 +62,8 @@
       "title": "Kasa",
       "description": " Le site web de Kasa est une plateforme conviviale permettant de rechercher et de réserver des hébergements entre particuliers, tels que des appartements.",
       "link": "View In Github",
-      "lien" : "https://github.com/samiNedjai/kasa.git",
-      "site" : "https://saminedjai.github.io/kasa/",
+      "lien" : "https://github.com/Openclassroomstudent/Kasa.git",
+      "site" : "https://github.com/Openclassroomstudent/Kasa/",
       "languages": ["SASS", "React"]
      
     },
@@ -73,8 +73,8 @@
       "title": "Booki",
       "description": "Un site permettant aux usagers de trouver des hébergements et des activités dans leur ville de choix.Transformer les maquettes desktop,tablette et mobile en code HTML et CSS",
       "link": "View In Github",
-      "lien" : "https://github.com/samiNedjai/Booki.git",
-      "site" : "https://saminedjai.github.io/Booki/",
+      "lien" : "https://github.com/Openclassroomstudent/Booki.git",
+      "site" : "https://github.com/Openclassroomstudent/Booki/",
       "languages": ["HTML", "CSS"]
    
     },
@@ -84,8 +84,8 @@
       "title": "Nina Carducci",
       "description": "Améliorer le référencement du site, en augmentant sa visibilité auprès des clients potentiels.La fourniture du code est optimisé avec un rapport de performance pour démontrer les résultats.",
       "link": "View In Github",
-      "lien" : "https://github.com/samiNedjai/nina.git",
-      "site" : "https://saminedjai.github.io/nina/",
+      "lien" : "https://github.com/Openclassroomstudent/Nina-Carducci.git",
+      "site" : "https://github.com/Openclassroomstudent/Nina-Carducci/",
       "languages": ["Optimisez le SEO"]
     },
     {
@@ -94,8 +94,8 @@
       "title": "724-Event",
       "description": "Ce site web  sert de vitrine en ligne pour l'agence événementielle. Il doit présenter de manière attrayante les services et les événements proposés par l'agence.",
       "link": "View In Github",
-      "lien" : "https://github.com/samiNedjai/724-Event.git",
-      "site" : "https://saminedjai.github.io/724-Event/",
+      "lien" : "https://github.com/Openclassroomstudent/724Events.git",
+      "site" : "https://github.com/Openclassroomstudent/",
       "languages": ["React"]
     }
   ]
