@@ -1,8 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://openclassroomstudent.github.io/portfolio-project12",
+  "homepage": "https://openclassroomstudent.github.io/Portfolio-project12",
   "engines": {
     "node": ">=12.x"
   },
