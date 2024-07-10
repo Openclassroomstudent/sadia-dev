@@ -4,7 +4,7 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Je suis SAMI</p>
+          <p className="section--title">Je suis SADIA</p>
           <h1 className="hero--section--title">
             <span className="hero--section-title--color">Développeur</span>{" "}
             <br />
@@ -20,7 +20,7 @@ export default function HeroSection() {
         </a>
       </div>
       <div className="hero--section--img">
-        <img src="./img/photo-sami.webp" alt="Hero Section" />
+        <img src="./img/photo-sami.webp" alt="Hero Section" loading="lazy" />
       </div>
     </section>
   );
