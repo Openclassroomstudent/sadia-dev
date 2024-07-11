@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sadia-dev/static/css/main.021dc4e5.css",
+    "main.js": "/sadia-dev/static/js/main.40529887.js",
+    "static/media/CV.pdf": "/sadia-dev/static/media/CV.b3b6e3cd8c54615a6487.pdf",
+    "index.html": "/sadia-dev/index.html",
+    "main.021dc4e5.css.map": "/sadia-dev/static/css/main.021dc4e5.css.map",
+    "main.40529887.js.map": "/sadia-dev/static/js/main.40529887.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021dc4e5.css",
+    "static/js/main.40529887.js"
+  ]
+}
