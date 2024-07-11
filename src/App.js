@@ -8,10 +8,11 @@ function App() {
   return (
     <div className="App">
       <Router>
-          <Routes>
-            <Route path="/" element={<Home />}></Route>
-            <Route path="*" element={<Error/>}></Route>
-          </Routes>
+        <Routes>
+          <Route path="/" element={<Home />}></Route>
+          <Route path="/sadia-dev" element={<Home />}></Route>
+          <Route path="*" element={<Error />}></Route>
+        </Routes>
       </Router>
     </div>
   );
